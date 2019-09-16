@@ -1,6 +1,6 @@
-update=Thu 04 Jan 2018 11:56:57 PM CET
+update=Mon 16 Sep 2019 11:10:57 AM EDT
 version=1
-last_client=kicad
+last_client=eeschema
 [pcbnew]
 version=1
 LastNetListRead=
@@ -27,9 +27,4 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=libs
-[eeschema/libraries]
-LibName1=libs/bat54
-LibName2=libs/solderbridge
-LibName3=libs/ip4220cz6
-LibName4=stm32....c-breakout
+LibDir=
